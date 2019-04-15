@@ -1,0 +1,44 @@
+button, 
+form {
+	margin: 5px;
+}
+
+button {color: blue}
+
+.jumbotron {
+	font-weight: bold;
+	background-color: navy;
+    color: white;
+    text-align: center;
+
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+	background-color: lightskyblue;
+    border: navy;
+    color: navy;
+    align-content: center;
+}
+
+input{
+	background-color: #dfdf88 ;
+}
+
+.item {
+	padding: 10px;
+	display: inline-block;
+}
+
+p{
+	background-color: navy;
+	color: white;	
+    padding: 2px;
+    align-content: center;
+    
+}
